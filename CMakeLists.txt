@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.26.3)
 project (Dungeon++)
-add_executable(main
+add_executable(Dungeon++
 	cell/cell.cc
 	cell/blocked_cell/blockedCell.cc
 	cell/blocked_cell/voidCell.cc
@@ -24,7 +24,7 @@ add_executable(main
 	main.cc
 )
 
-target_include_directories(main
+target_include_directories(Dungeon++
 	PRIVATE
 	cell
 	cell/blocked_cell
