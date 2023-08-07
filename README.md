@@ -2,7 +2,7 @@
 
 ``` made in collaboration with Kevin Yang (github.com/NEVIEMYK3V1N/) ```
 
-Dungeon++ is a rogue-like game implemented in C++ using many C++ and OOP design principles such as derived classes, class hierarchy, the "Big Five", and design patterns such as the decorator pattern. It has the ability to randomly generate a set of 
+Dungeon++ is a rogue-like game implemented in C++ using many C++ and OOP design principles such as derived classes, class hierarchy, the "Big Five", and design patterns such as the decorator pattern. It has the ability to randomly generate levels or to read in a valid map file that has every entity placed already. 
 
 The objective is to reach the stairway of all 5 levels in order to win the game while not dying to the dangers along the way and collecting as much gold as possible for a high score. 
 
