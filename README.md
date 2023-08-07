@@ -25,7 +25,7 @@ s for Shade, d for Drow, v for Vampire, t for Troll, and g for Goblin
 * | and -: vertical and horizontal walls, no player or NPC is allowed to move on it
 * +: doorway, only the player is allowed to enter
 * #: passage, only the player is allowed to enter
-* .: floortile, both player and NPC are allowed to move on it
+* . : floortile, both player and NPC are allowed to move on it
 * \: stairway, the player advances to the next floor once reached. If it is the stairway of the 5th floor, the player wins the game
 
 ## Playable Characters
