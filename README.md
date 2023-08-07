@@ -6,7 +6,7 @@ Dungeon++ is a rogue-like game implemented in C++ using many C++ and OOP design 
 
 The objective is to reach the stairway of all 5 levels in order to win the game while not dying to the dangers along the way and collecting as much gold as possible for a high score. 
 
-** Please ensure that either empty.txt or a valid map file is under the same directory when running the executable, the game would not run otherwise.**
+**Please ensure that either empty.txt or a valid map file is under the same directory when running the executable, the game would not run otherwise.**
 When using a map file, provide the file name as a command line argument with the executable. Ex: if the file is called map.txt, place the file in the same directory and run ./Dungeon++.exe map.txt
 
 ## Controls:
