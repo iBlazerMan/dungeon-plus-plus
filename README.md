@@ -14,11 +14,11 @@ s for Shade, d for Drow, v for Vampire, t for Troll, and g for Goblin
 * a + direction: attack the NPC on the tile given
 
 ## Playable Characters
-Shade: No special ability
-Drow: All potion effects are magnified by 1.5 times regardless of buff or debuff. Immune to elf's double attack
-Vampire: No maximum HP cap, regains 5 HP for every successful attack except dwarf (loses 5 HP instead for being allergic)
-Troll: Regains 5 HP at the start of every turn
-Goblin: Gets a 5 Gold bonus upon killing an enemy
+- Shade: No special ability
+- Drow: All potion effects are magnified by 1.5 times regardless of buff or debuff. Immune to elf's double attack
+- Vampire: No maximum HP cap, regains 5 HP for every successful attack except dwarf (loses 5 HP instead for being allergic)
+- Troll: Regains 5 HP at the start of every turn
+- Goblin: Gets a 5 Gold bonus upon killing an enemy
 More to come!
 
 ## NPCs
