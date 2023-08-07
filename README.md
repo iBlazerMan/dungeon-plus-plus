@@ -2,7 +2,7 @@
 
 ``` made in collaboration with Kevin Yang (github.com/NEVIEMYK3V1N/) ```
 
-Dungeon++ is a rogue-like video game implemented in C++ using many C++ and OOP design principles such as derived classes, class hierarchy, the "Big Five", and design patterns such as the decorator pattern.
+Dungeon++ is a rogue-like game implemented in C++ using many C++ and OOP design principles such as derived classes, class hierarchy, the "Big Five", and design patterns such as the decorator pattern.
 
 The objective is to reach the stairway of all 5 levels in order to win the game while collecting as much gold as possible for a high score.
 
@@ -35,7 +35,7 @@ All NPCs have a 50% chance of missing their attack on the player. NPCs do not le
 * Human(H): Drops a pile of gold when killed
 * Merchant(M): remains neutral to the player but becomes hostile once attacked. Drops a pile of gold when killed.
 * Dragon(D): Does not move, guards a gold treasure that cannot be picked up before it is killed. Will attack the player if it is adjacent to the treasure <br>
-Dwarf, Orcs and Halfing give the player 1-2 gold randomly upon their demise
+Dwarf, Orcs and Halfing give the player 1-2 gold randomly upon their demise. <br>
 More to come!
 
 ## Potions
