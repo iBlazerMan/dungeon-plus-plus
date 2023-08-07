@@ -9,9 +9,9 @@ The objective is to reach the stairway of all 5 levels in order to win the game 
 ### Selecting a faction/race:
 s for Shade, d for Drow, v for Vampire, t for Troll, and g for Goblin
 ### Character Control:
-direction (nw, no, ne, we, ea, sw, so, se): move the character to the adjacent tile in the direction given
-u + direction: use the potion on the adjacent tile given (for example, using the potion on the northeast tile would be "u ne")
-a + direction: attack the NPC on the tile given
+* direction (nw, no, ne, we, ea, sw, so, se): move the character to the adjacent tile in the direction given
+* u + direction: use the potion on the adjacent tile given (for example, using the potion on the northeast tile would be "u ne")
+* a + direction: attack the NPC on the tile given
 
 ## Playable Characters
 Shade: No special ability
