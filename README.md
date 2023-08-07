@@ -33,7 +33,7 @@ s for Shade, d for Drow, v for Vampire, t for Troll, and g for Goblin
 - Drow: All potion effects are magnified by 1.5 times regardless of buff or debuff. Immune to elf's double attack
 - Vampire: No maximum HP cap, regains 5 HP for every successful attack
 - Troll: Regains 5 HP at the start of every turn
-- Goblin: Gets a 5 Gold bonus upon killing an enemy <br> <br>
+- Goblin: Gets a 5 Gold bonus upon killing an enemy <br>
 More to come!
 
 ## NPCs
@@ -46,8 +46,7 @@ All NPCs have a 50% chance of missing their attack on the player. NPCs do not le
 * Human(H): Drops a pile of gold when killed
 * Merchant(M): remains neutral to the player but becomes hostile once attacked. Drops a pile of gold when killed.
 * Dragon(D): Does not move, guards a gold treasure that cannot be picked up before it is killed. Will attack the player if it is adjacent to the treasure <br>
-Dwarf, Orcs and Halfing give the player 1-2 gold randomly upon their demise. <br>
-More to come!
+Dwarf, Orcs and Halfing give the player 1-2 gold randomly upon their demise. 
 
 ## Potions
 The potions' effects are not known before being picked up, and they can be any one of the following: <br>
