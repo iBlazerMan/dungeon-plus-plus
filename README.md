@@ -2,9 +2,12 @@
 
 ``` made in collaboration with Kevin Yang (github.com/NEVIEMYK3V1N/) ```
 
-Dungeon++ is a rogue-like game implemented in C++ using many C++ and OOP design principles such as derived classes, class hierarchy, the "Big Five", and design patterns such as the decorator pattern.
+Dungeon++ is a rogue-like game implemented in C++ using many C++ and OOP design principles such as derived classes, class hierarchy, the "Big Five", and design patterns such as the decorator pattern. It has the ability to randomly generate a set of 
 
-The objective is to reach the stairway of all 5 levels in order to win the game while collecting as much gold as possible for a high score.
+The objective is to reach the stairway of all 5 levels in order to win the game while not dying to the dangers along the way and collecting as much gold as possible for a high score. 
+
+** Please ensure that either empty.txt or a valid map file is under the same directory when running the executable, the game would not run otherwise.**
+When using a map file, provide the file name as a command line argument with the executable. Ex: if the file is called map.txt, place the file in the same directory and run ./Dungeon++.exe map.txt
 
 ## Controls:
 ### Selecting a faction/race:
@@ -16,6 +19,13 @@ s for Shade, d for Drow, v for Vampire, t for Troll, and g for Goblin
 ### Functionalities:
 * f: enable/disable NPC movement
 * q: quit the game
+
+## Map Symbols:
+* | and -: vertical and horizontal walls, no player or NPC is allowed to move on it
+* +: doorway, only the player is allowed to enter
+* #: passage, only the player is allowed to enter
+* .: floortile, both player and NPC are allowed to move on it
+* \: stairway, the player advances to the next floor once reached. If it is the stairway of the 5th floor, the player wins the game
 
 ## Playable Characters
 - Shade: No special ability
