@@ -14,8 +14,8 @@
 #include <string>
 #include "cell.h"
 #include "chamberInterior.h"
+#include "entity.h"
 
-class Entity;
 class PC;
 
 class Floor {

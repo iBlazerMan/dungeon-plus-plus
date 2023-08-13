@@ -19,6 +19,7 @@ add_executable(Dungeon++
 	playable_character/pc.cc
 	playable_character/potionEffect.cc
 	chamberInterior.cc
+	constants.cc
 	floor.cc
 	game.cc
 	main.cc
